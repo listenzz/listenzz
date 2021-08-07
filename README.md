@@ -15,3 +15,5 @@
 - [依赖注入实现组件化](https://github.com/listenzz/android-modularization)
 - [Android 生命周期架构组件与 RxJava 完美协作](https://todoit.tech/2017-08-05/android-lifecyle-works-perfectly-with-rxjava.html)
 
+[![Listenzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=listenzz)](https://github.com/anuraghazra/github-readme-stats)
+
